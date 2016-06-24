@@ -1,0 +1,69 @@
+{
+    "id": "individual-report-796", 
+    "task": "individual-report", 
+    "destination": "", 
+    "updated": "2016-02-10T17:06:15.394Z",
+    "data": {
+        "language": "vn", 
+        "account": {
+            "color": "#0098cf", 
+            "logo": "", 
+            "logo_height": 80, 
+            "display_name": "Great People Inside", 
+            "logo_width": 195
+        }, 
+        "candidate": {
+            "gender": "F", 
+            "first_name": "Mary", 
+            "last_name": "Match"
+        }, 
+        "assessment_tpl": {
+            "name": "GR8 Full Spectrum", 
+            "dimensions": [
+                "dim-gr8-artistic", 
+                "dim-gr8-reasoning", 
+                "dim-gr8-working-with-words", 
+                "dim-gr8-objectiveness", 
+                "dim-gr8-energy", 
+                "dim-gr8-openness-to-experience", 
+                "dim-gr8-realistic", 
+                "dim-gr8-stability", 
+                "dim-gr8-conventional", 
+                "dim-gr8-enterprising", 
+                "dim-gr8-social", 
+                "dim-gr8-conscientiousness", 
+                "dim-gr8-resilience", 
+                "dim-gr8-working-with-numbers", 
+                "dim-gr8-investigative", 
+                "dim-gr8-extraversion", 
+                "dim-gr8-tenacity", 
+                "dim-gr8-agreeableness",
+                "dim-gr8-distortion"
+            ]
+        }, 
+        "assessed_date": "2016-02-09T21:41:02.835Z", 
+        "results": {
+            "dimension_results": {
+                "dim-gr8-openness-to-experience": 9, 
+                "dim-gr8-extraversion": 6, 
+                "dim-gr8-social": 2, 
+                "dim-gr8-tenacity": 8, 
+                "dim-gr8-resilience": 8, 
+                "dim-gr8-agreeableness": 6, 
+                "dim-gr8-objectiveness": 10, 
+                "dim-gr8-artistic": 1, 
+                "dim-gr8-conventional": 6, 
+                "dim-gr8-working-with-words": 9, 
+                "dim-gr8-stability": 7, 
+                "dim-gr8-working-with-numbers": 9, 
+                "dim-gr8-energy": 5, 
+                "dim-gr8-investigative": 5, 
+                "dim-gr8-enterprising": 4, 
+                "dim-gr8-realistic": 3, 
+                "dim-gr8-reasoning": 10, 
+                "dim-gr8-conscientiousness": 8,
+                "dim-gr8-distortion": 1
+            }
+        }
+    }
+}
